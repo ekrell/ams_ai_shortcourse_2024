@@ -14,6 +14,7 @@ This [AMS Short Course](https://www.ametsoc.org/index.cfm/ams/education-careers/
 - [Evan Krell](https://ekrell.github.io/)
 - [Hamid Kamangir](https://scholar.google.com/citations?user=YLYJGQ8AAAAJ&hl=en)
 - [Maria Molina](https://mariajmolina.github.io/)
+- [Julia L. Simpson](https://lamont.columbia.edu/directory/julia-l-simpson)
 
 
 ## Itinerary
