@@ -22,7 +22,7 @@ This [AMS Short Course](https://www.ametsoc.org/index.cfm/ams/education-careers/
 | **Time**      | **Topic**                                    | **Instructor** |
 |---------------|----------------------------------------------|----------------|
 | 8:00 - 8:30   | Introduction to AI for Environmental Science | Kara Lamb      |
-| 8:30 - 9:30   | Data Preprocessing                           | Evan Krell     |
+| 8:30 - 9:30   | [Data Preprocessing](modules/data_preprocessing)                           | Evan Krell     |
 | 9:30 - 9:45   | Coffee Break                                 |                |
 | 9:45 - 11:15  | Learning Methods                             | Maria Molina   |
 | 11:15 - 12:00 | Model Evaluation                             | Hamid Kamangir |
