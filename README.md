@@ -31,6 +31,6 @@ This [AMS Short Course](https://www.ametsoc.org/index.cfm/ams/education-careers/
 | 1:45 - 2:30   | Explainable AI  ([Part 1](modules/xai_tabular.ipynb),  [Part 2](modules/xai_raster.ipynb)) | Evan Krell     |
 | 2:30 - 2:45   | Coffee Break                                 |                |
 | 2:45 - 3:30   | [Transformers](modules/transformers.ipynb)                                         | Hamid Kamangir |
-| 3:30 - 3:45   | [Conclusions & Additional Resources](slides/Conclusions.pdf)             |                |
+| 3:30 - 3:45   | [Conclusions & Additional Resources](slides/Conclusions.pdf)             |   Kara Lamb             |
 
 
