@@ -24,13 +24,13 @@ This [AMS Short Course](https://www.ametsoc.org/index.cfm/ams/education-careers/
 | 8:00 - 8:30   | Introduction to AI for Environmental Science | Kara Lamb      |
 | 8:30 - 9:30   | [Data Preprocessing & Exploring](modules/preprocessing_exploring.ipynb)            | Evan Krell     |
 | 9:30 - 9:45   | Coffee Break                                 |                |
-| 9:45 - 11:15  | [Learning Methods](modules/learningmethods.ipynb)                             | Maria Molina   |
-| 11:15 - 12:00 | Model Evaluation                             | Hamid Kamangir |
+| 9:45 - 11:15  | [Learning Methods](modules/learningmethods.ipynb)                                  | Maria Molina   |
+| 11:15 - 12:00 | [Model Evaluation](modules/model_selection_evaluation.ipynb)                       | Hamid Kamangir |
 | 12:00 - 1:00  | Lunch                                        |                |
-| 1:00 - 1:45   | [Physics-informed AI](modules/physicsai.ipynb)                          | Kara Lamb      |
+| 1:00 - 1:45   | [Physics-informed AI](modules/physicsai.ipynb)                                     | Kara Lamb      |
 | 1:45 - 2:30   | Explainable AI  ([Part 1](modules/xai_tabular.ipynb),  [Part 2](xai_raster.ipynb)) | Evan Krell     |
 | 2:30 - 2:45   | Coffee Break                                 |                |
-| 2:45 - 3:30   | Transformers                                 | Hamid Kamangir |
+| 2:45 - 3:30   | [Transformers](modules/transformers.ipynb)                                         | Hamid Kamangir |
 | 3:30 - 3:45   | Conclusions/Additional Resources             |                |
 
 
